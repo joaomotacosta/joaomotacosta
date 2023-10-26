@@ -15,7 +15,7 @@ I'm João Costa, a cybersecurity specialist from Portugal with a professional ba
 ---
 
 # Olá! 👋
-Sou o João Costa, técnico especialista em cibersegurançá de Portugal, com formação profissional em programação e tradução. Os meus lemas de vida incluem: "Uma pessoa preguiçosa vai encontrar a maneira fácil de o fazer" e "Faz as coisas da maneira errada, mas depressa".
+Sou o João Costa, técnico especialista em cibersegurança de Portugal, com formação profissional em programação e tradução. Os meus lemas de vida incluem: "Uma pessoa preguiçosa vai encontrar a maneira fácil de o fazer" e "Faz as coisas da maneira errada, mas depressa".
 
 ### 👨‍💻 Sobre mim:
 - 🌍 Lisboa, Portugal

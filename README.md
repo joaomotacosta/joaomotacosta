@@ -3,7 +3,7 @@ I'm João Costa, a cybersecurity specialist from Portugal with a professional ba
 
 ### 👨‍💻 About Me:
 - 🌍 Lisbon, Portugal
-- 🔐 Looking for work
+- 🔐 Currently working as a Junior Software Engineer
 - 👀 Interested in pentesting, social engineering, hardware and overclocking
 - 🧠 I'm currently learning LaTeX and Pandoc to maximize my workflow.
 - ✉️ You can reach me at [joaomotacosta@tuta.io](mailto:joaomotacosta@tuta.io)
@@ -19,7 +19,7 @@ Sou o João Costa, técnico especialista em cibersegurança de Portugal, com for
 
 ### 👨‍💻 Sobre mim:
 - 🌍 Lisboa, Portugal
-- 🔐 À procura de emprego
+- 🔐 Atualmente a trabalhar como Junior Software Engineer
 - 👀 Interessado em pentesting, engenharia social, hardware e overclocking.
 - 🧠 Estou a aprender LaTeX e Pandoc para poder maximizar o meu workflow.
 - ✉️ Podem contactar-me em [joaomotacosta@tuta.io](mailto:joaomotacosta@tuta.io)

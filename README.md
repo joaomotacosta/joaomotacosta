@@ -23,7 +23,7 @@ Sou o João Costa, técnico especialista em cibersegurança de Portugal, com for
 - 👀 Interessado em pentesting, engenharia social, hardware e overclocking.
 - 🧠 Estou a aprender LaTeX e Pandoc para poder maximizar o meu workflow.
 - ✉️ Podem contactar-me em [joaomotacosta@tuta.io](mailto:joaomotacosta@tuta.io)
-- ⚡ Curiosidade: Eu giro qualquer botão que possa aumentar a tensão ou a frequência de qualquer hardware.
+- ⚡ Curiosidade: Eu mexo em qualquer botão que possa aumentar a tensão ou a frequência de qualquer hardware.
 
 ### Competências
 [![As minhas competências](https://skillicons.dev/icons?i=bash,cpp,cmake,css,git,github,gtk,html,latex,linux,md,mysql,nginx,ps,postgres,powershell,py,raspberrypi,regex,vscode&theme=dark&perline=10)](https://skillicons.dev)

@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hello there! 👋
 I'm João Costa, a cybersecurity specialist from Portugal with a professional background in programming and translation. My life mottos include: "A lazy person will find an easy way to do it" and "Do things the wrong way, but faster".
 
 ### 👨‍💻 About Me:
